@@ -832,7 +832,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 		padding: 3em 2.25em 1.75em 2.25em ;
 
 		/* border: 1px solid red; */
-		background-color: #3A3C47;
+		background-color: #000000;
 		color: white;
 }
 
@@ -863,7 +863,7 @@ License URI:http://www.gnu.org/licenses/gpl-2.0.html
 /* Thumbnails */
 
 	#thumbnails {
-		background-color: rgba(58, 60, 71, 0.81);
+		background-color: #16161d;
 		display: -moz-flex;
 		display: -webkit-flex;
 		display: -ms-flex;
